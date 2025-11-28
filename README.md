@@ -22,6 +22,6 @@ For feature requests, bugs, or other issues, please file a [GitHub issue](https:
 For any other questions or feedback, connect directly with the
 Robotics team at [unity-robotics@unity3d.com](mailto:unity-robotics@unity3d.com).
 ## Bug 
-Solved the issue for ROS2 Humble. Please note that this is for the version -0.7.0, the latest one.Please match the versions while setting up the bridge on Unity[ROS-TCP-Connector package](https://github.com/Unity-Technologies/ROS-TCP-Connector).
+Solved the issue for ROS2 Humble. Please note that this is for the version -0.7.0, the latest one.Please match the versions while setting up the bridge on Unity [ROS-TCP-Connector package](https://github.com/Unity-Technologies/ROS-TCP-Connector).
 ## License
 [Apache License 2.0](LICENSE)
